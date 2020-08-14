@@ -15,7 +15,7 @@ setup(
     install_requires=[
         'numpy',
         'pygame',
-        'python-musical @ git+https://github.com/wybiral/python-musical@master#egg=python-musical'
+        'python-musical @ git+https://github.com/wybiral/python-musical@master#egg=musical'
     ],
     classifiers=[
         'Intended Audience :: Developers',

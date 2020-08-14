@@ -13,9 +13,8 @@ setup(
     py_modules=['digitar'],
     platforms='any',
     install_requires=[
-        'numpy',
-        'pygame',
-        'python-musical @ git+https://github.com/wybiral/python-musical@master#egg=musical'
+        'musical',
+        'pygame'
     ],
     classifiers=[
         'Intended Audience :: Developers',
